@@ -97,7 +97,7 @@ namespace Crypto_Wallets_Scanner
             this.label4.Name = "label4";
             this.label4.Size = new System.Drawing.Size(23, 26);
             this.label4.TabIndex = 6;
-            this.label4.Text = "0";
+            this.label4.Text = "11";
             // 
             // result_txt
             // 
@@ -137,7 +137,7 @@ namespace Crypto_Wallets_Scanner
             this.panel1.Location = new System.Drawing.Point(444, 26);
             this.panel1.Name = "panel1";
             this.panel1.Size = new System.Drawing.Size(2, 517);
-            this.panel1.TabIndex = 7;
+            this.panel1.TabIndex = 8;
             // 
             // Main
             // 
